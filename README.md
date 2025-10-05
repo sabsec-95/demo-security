@@ -1,1 +1,1 @@
-# demo-security
+# security-pipeline-demo
